@@ -1,0 +1,10 @@
+.grid{
+    width: 600px;
+    height: 600px;
+}
+
+.square{
+    height: 200px;
+    width: 200px ;
+    border-radius: black;
+}
